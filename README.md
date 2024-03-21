@@ -3,6 +3,6 @@ In this assignment challenge, I utilized Pandas dataframes to analyse student pe
 
 I created several dataframes based on calculations such as mean scores, passing rates, and per-student budgets for different schools. These dataframes facilitated comparisons and insights into performance trends among schools, ultimately leading to conclusions on ways to enhance standards in underperforming schools.
 
-To explore the detailed analysis and conclusions, please refer to the Jupyter notebook file located in the PyCitySchools folder.
+To explore the detailed analysis and conclusions, please refer to the Jupyter notebook file located in the "PyCitySchools" folder.
 
-The data for this challenge was provided by edX bootcamps LLC.
+The data for this challenge was provided by edX bootcamps LLC and is located in the 'Resources" folder. 
